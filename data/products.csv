@@ -1,0 +1,51 @@
+product_id,name,category,price,cost
+1,boAt BassHeads Earphones,Electronics,1499,940
+2,Mi Redmi Note 13,Electronics,16999,11254
+3,HP Laptop 15s,Electronics,58990,45196
+4,Samsung 43in TV,Electronics,32999,21171
+5,Noise Smartwatch,Electronics,2999,2258
+6,JBL Flip Speaker,Electronics,8999,6666
+7,Logitech Mouse,Electronics,795,605
+8,SanDisk 128GB Pendrive,Electronics,1199,913
+9,Philips Trimmer,Electronics,1895,1595
+10,Mi Powerbank 20000mAh,Electronics,2199,1501
+11,Roadster Cotton Tshirt,Fashion,499,398
+12,Levis Slim Jeans,Fashion,1999,1252
+13,Biba Kurti,Fashion,1299,811
+14,Nike Running Shoes,Fashion,3495,2290
+15,H&M Dress,Fashion,1499,1179
+16,Puma Sneakers,Fashion,2799,2069
+17,FabIndia Saree,Fashion,2499,1929
+18,Allen Solly Shirt,Fashion,1599,1047
+19,Zara Handbag,Fashion,2299,1594
+20,Bata Slippers,Fashion,399,285
+21,Aashirvaad Atta 10kg,Grocery,485,373
+22,Tata Salt 1kg,Grocery,28,21
+23,Fortune Oil 5L,Grocery,725,462
+24,Maggi 12pack,Grocery,168,142
+25,Amul Ghee 1L,Grocery,650,468
+26,Daawat Basmati 5kg,Grocery,899,605
+27,Parle Biscuits Combo,Grocery,199,165
+28,Tata Tea 1kg,Grocery,540,335
+29,Sugar 5kg,Grocery,240,193
+30,Dry Fruits Mix 1kg,Grocery,999,781
+31,Milton Bottle 1L,Home,899,617
+32,Prestige Cooker 5L,Home,1895,1299
+33,Wakefit Bedsheet,Home,999,795
+34,Philips LED Bulb Pack,Home,649,473
+35,Nilkamal Chair,Home,1499,1029
+36,Borosil Dinner Set,Home,2499,1560
+37,Dyson V8 Clone Vacuum,Home,7999,6243
+38,Wall Clock Ajanta,Home,599,427
+39,Cello Storage Box,Home,499,307
+40,Havells Iron,Home,1299,793
+41,Lakme Lipstick,Beauty,550,427
+42,Mamaearth Facewash,Beauty,349,211
+43,Nivea Cream,Beauty,299,205
+44,Loreal Shampoo,Beauty,499,313
+45,Himalaya Kajal,Beauty,199,159
+46,Maybelline Foundation,Beauty,649,540
+47,Dove Soap Pack,Beauty,249,195
+48,Biotique Serum,Beauty,799,582
+49,Garnier Hair Colour,Beauty,229,168
+50,Vaseline Lotion,Beauty,399,272
